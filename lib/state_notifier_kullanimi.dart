@@ -46,7 +46,7 @@ class MyHomePage extends StatelessWidget {
           children: const [
             MyFloatingActionButton(),
             SizedBox(
-              height: 20,
+              height: 25,
             ),
             MyFloatingAction(),
           ],
